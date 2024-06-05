@@ -1,4 +1,7 @@
 # TravelGenie
+This is the repository for the Chas Challenge 2024 for Grupp-5. This is the source code for the Travel Genie, an aplication to help you schedule your vacation.
+
+[Github Structure Help](/documentation/github.md)
 
 # Members
 ### Frontend:
@@ -10,11 +13,6 @@ Joakim Strandlund, Emilia Lejonstig
 
 # Trello
 https://trello.com/w/userarbetsyta49593134
-
-
-This is the repository for the Chas Challenge 2024 for Grupp-5. This is the source code for the Travel Genie, an aplication to help you schedule your vacation.
-
-[Github Structure Help](/documentation/github.md)
 
 ## Branch Structure
 For easy workflow each developer *(Frontend/Backend/DevOps)* will have their own branch to fork from. This is so that each developer can test their features in a safe environment. Here are the branches accessible:
