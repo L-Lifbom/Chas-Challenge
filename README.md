@@ -3,6 +3,9 @@ This is the repository for the Chas Challenge 2024 for Grupp-5. This is the sour
 
 [Github Structure Help](/documentation/github.md)
 
+# About
+This repo contains a webservice that helps plan, organize and save trip itineraries.
+
 # Members
 ### Frontend:
 Lucas Lifbom, William Janssen, Charlie Ålander
