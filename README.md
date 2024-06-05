@@ -1,4 +1,17 @@
 # TravelGenie
+
+# Members
+### Frontend:
+Lucas Lifbom, William Janssen, Charlie Ålander
+### Backend:
+Tensae, Andreas Anderson, Edris Ahmed, Robin Kalkan, Sami Goran
+### UX:
+Joakim Strandlund, Emilia Lejonstig
+
+# Trello
+https://trello.com/w/userarbetsyta49593134
+
+
 This is the repository for the Chas Challenge 2024 for Grupp-5. This is the source code for the Travel Genie, an aplication to help you schedule your vacation.
 
 [Github Structure Help](/documentation/github.md)
