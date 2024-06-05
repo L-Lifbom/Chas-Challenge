@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "c:\\Users\\Lifbo\\Documents\\GitHub\\TravelGenie\\ReactApp4.Server\\..\\reactapp4.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

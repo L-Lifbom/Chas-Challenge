@@ -1,0 +1,16 @@
+name: Get Repo Information
+
+on: workflow_dispatch
+
+jobs:
+  echo-information:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v4
+      - run: echo gh issue list 
+      - run: echo gh pr list
+      - run: echo gh release list
+
+    env: 
+      GH_TOKEN: ${{ github.token }}
+    

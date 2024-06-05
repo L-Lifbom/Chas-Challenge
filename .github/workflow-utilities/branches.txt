@@ -1,0 +1,10 @@
+77fe980c130400901413f3c054a00764df37452f	refs/heads/AA-Feature-Branch
+700e9e6ed7c7f0d3d4d4964e297b817f523ff7fa	refs/heads/FrontFetchEx
+3361de986aaaa55f835ac9b30deac36cc356c6c3	refs/heads/Frontend-CssStyling-13
+3db3964a6c39b6b3acff5f7e1ea1cb7f257153e5	refs/heads/Tensae-Feature-Branch
+c1bb84f0be8af671c30761ef1a6a6f9e7b03b2a0	refs/heads/accordion
+20fba3cdd0aba76ff4d05c6e9f5190b254758df9	refs/heads/dev
+d8a5001b9a1bd9f99c9d8bb22eef4959f007a903	refs/heads/dev-feature-3
+c5464b492d960d4a91064eabbe3934c07a0a7f60	refs/heads/devops-feature-#2
+5f95b079e1bfd66248999ffb5c0e0da30c937794	refs/heads/frontend-resultatsida-12
+f45c75edcec86e9ca9d175849e1cf423ced4b6f5	refs/heads/main

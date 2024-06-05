@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Travel-Ginie-App.Server</name>
+    </assembly>
+    <members>
+        <member name="M:Travel_Ginie_App.Server.Controllers.TravelAppController.GetCountries">
+            <summary>
+            Return a list of all countries in the world
+            </summary>
+            <respons code="200">Returns List of Alll Countries In the world</respons>
+            <respons code="500">Returns an error message if faild to retreive countries</respons>
+        </member>
+        <member name="M:Travel_Ginie_App.Server.Controllers.TravelAppController.GetCities(System.String)">
+            <summary>
+            Return a list of all Cities in a country 
+            </summary>
+            <param Name="country">The Country where the cities are found in.</param>
+            <respons code="200">Returns List of All cities In the Country</respons>
+            <respons code="500">Returns an error message if faild to retreive cities</respons>
+        </member>
+        <member name="M:Travel_Ginie_App.Server.Controllers.TravelAppController.GetEventsByCity(System.String,System.String,System.Int32)">
+            <summary>
+            Return a list of Events in a City
+            </summary>
+             <param name="type">The Type Of Event Required.</param>
+             <param name="city">The City whre the event takes place.</param>
+             <param name="start">The Page number for paginetion.</param>
+            <respons code="200">Returns List of All events in a city</respons>
+            <respons code="500">Returns an error message if faild to retreive Events</respons>
+        </member>
+        <member name="M:Travel_Ginie_App.Server.Controllers.TravelAppController.GetGeoIDCity(System.String)">
+            <summary>
+            Return the geoid of a City
+            </summary>
+             
+             <param name="city">The City whre the event takes place.</param>
+            <respons code="200">Returns the universal geographical ID of a city</respons>
+            <respons code="500">Returns an error message if faild to retreive geoid</respons>
+        </member>
+        <member name="M:Travel_Ginie_App.Server.Controllers.TravelAppController.GetRestaurantsByCity(System.String)">
+            <summary>
+            Retrieves a list of restaurants in a specified city.
+            </summary>
+            <param name="city">The name of the city for which restaurants are to be retrieved.</param>
+            <returns>A list of restaurant data if successful, otherwise returns an error message.</returns>
+            <response code="200">Returns a list of restaurants in the specified city.</response>
+            <response code="500">If there is an error while retrieving the restaurants, returns an error message.</response>
+        </member>
+        <member name="T:Travel_Ginie_App.Server.Migrations.Init">
+            <inheritdoc />
+        </member>
+        <member name="M:Travel_Ginie_App.Server.Migrations.Init.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Travel_Ginie_App.Server.Migrations.Init.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Travel_Ginie_App.Server.Migrations.Init.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

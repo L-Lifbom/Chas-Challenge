@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\ReactApp4\reactapp4.client\obj\Debug\reactapp4.client.esproj.CoreCompileInputs.cache
+c:\Users\charl\OneDrive\Desktop\Travelenie\TravelGenie-1\reactapp4.client\obj\Debug\reactapp4.client.esproj.CoreCompileInputs.cache
+c:\Users\janss\OneDrive\Desktop\BACKEND\TravelGenie\reactapp4.client\obj\Debug\reactapp4.client.esproj.CoreCompileInputs.cache
+c:\Users\Lifbo\Documents\Github\TravelGenie\reactapp4.client\obj\Debug\reactapp4.client.esproj.CoreCompileInputs.cache

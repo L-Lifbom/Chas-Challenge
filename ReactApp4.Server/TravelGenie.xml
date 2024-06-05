@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Travel-Ginie-App.Server</name>
+    </assembly>
+    <members>
+        <member name="M:Travel_Ginie_App.Server.Controllers.TravelAppController.GetCountries">
+            <summary>
+            Return a list of all countries in the world
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

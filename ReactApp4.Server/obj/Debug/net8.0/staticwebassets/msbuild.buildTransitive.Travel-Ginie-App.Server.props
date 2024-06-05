@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Travel-Ginie-App.Server.props" />
+</Project>
